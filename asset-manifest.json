@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Professional-Login-Dashboard/static/css/main.dd1b5936.css",
+    "main.js": "/Professional-Login-Dashboard/static/js/main.87d31c4c.js",
+    "static/js/453.96811671.chunk.js": "/Professional-Login-Dashboard/static/js/453.96811671.chunk.js",
+    "index.html": "/Professional-Login-Dashboard/index.html",
+    "main.dd1b5936.css.map": "/Professional-Login-Dashboard/static/css/main.dd1b5936.css.map",
+    "main.87d31c4c.js.map": "/Professional-Login-Dashboard/static/js/main.87d31c4c.js.map",
+    "453.96811671.chunk.js.map": "/Professional-Login-Dashboard/static/js/453.96811671.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1b5936.css",
+    "static/js/main.87d31c4c.js"
+  ]
+}
