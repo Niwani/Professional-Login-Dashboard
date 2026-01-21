@@ -12,6 +12,11 @@ https://niwani.github.io/Professional-Login-Dashboard/
 ✔️ Built with React — Uses Create React App, clean folder structure, and modern JS.
 ✔️ Easy to Extend — Designed so you can plug in real authentication APIs or frameworks.
 
+# Screen Shot
+### Login Page  
+![Login Screenshot](screenshot.png)
+
+
 # 🚀 Technologies Used
 
 ✔ React
